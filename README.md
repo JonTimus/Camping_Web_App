@@ -1,6 +1,6 @@
 **YelpCamp
 
-![camp](https://github.com/JonTimus/Camping_Web_App/main/camp.jpg?raw=true)
+![alt text](https://github.com/JonTimus/Camping_Web_App/blob/main/camp.jpg?raw=true)
 
 ##Initial Setup
 * Add Landing Page
