@@ -1,4 +1,4 @@
-**YelpCamp
+*YelpCamp
 
 ![alt text](https://github.com/JonTimus/Camping_Web_App/blob/main/camp.jpg?raw=true)
 
